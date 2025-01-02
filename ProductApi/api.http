@@ -1,0 +1,10 @@
+﻿
+
+POST https://lwaqslrtbwwqrpnhxjoiceznnm0vprsw.lambda-url.us-east-1.on.aws/
+Content-Type: application/json
+
+{
+  "ProductId": "10001",
+  "Name": "OpenTelemetry Course",
+  "Price": 100
+}
